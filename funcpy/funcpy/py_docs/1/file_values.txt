@@ -1,0 +1,5 @@
+list_number = [1, 2, 3, 4, 5]
+
+list_alfabet = ['a', 'b', 'c', 'd', 'e']
+
+list_random = ['a', '2', '$', 'ç', [1, 2, 3], {'a': 1, 'b': 2, 'c': 3}]

@@ -7,18 +7,20 @@ iterator.__next__()
 
 
 for x in iter(list_number):
-    print(x)
+    x
 
 
 tuple_iterator = iter(list_number)
 tuple_number = tuple(tuple_iterator)
-print(tuple_number)
+tuple_number
 
 
 interator_var = iter(list_number)
 
 one, two, three, four = interator_var
-print(one)
-print(two)
-print(three)
-print(four)
+
+
+one
+two
+three
+four
